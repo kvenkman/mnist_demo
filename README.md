@@ -6,3 +6,6 @@ This repo follows the excellent introduction to Deep Learning and Neural Network
 Code in these notebooks are generally taken from that website, and had been modified for Python 3 compatibility and added functionality/experimentation.
 
 Happy DL-ing with NNs! :)
+
+### An example of the trained network output:
+![Using a TensorFlow trained network](mytest.png)
