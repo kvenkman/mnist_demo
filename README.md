@@ -8,4 +8,9 @@ Code in these notebooks are generally taken from that website, and had been modi
 Happy DL-ing with NNs! :)
 
 ### An example of the trained network output:
+
+#### Actual Value (Predicted Value)
 ![Using a TensorFlow trained network](mytest.png)
+
+### An example of poor scaling causing bad classifications:
+![Correctly (1) and incorrectly scaled images (2-3)](scalingtest.png)
