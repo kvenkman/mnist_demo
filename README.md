@@ -14,3 +14,6 @@ Happy DL-ing with NNs! :)
 
 ### An example of poor scaling causing bad classifications:
 ![Correctly (1) and incorrectly scaled images (2-3)](scalingtest.png)
+
+### A saved TF model results in less than 50% accuracy, when it's accuracy was ~98% on the MNIST set. The reason for this is being currently explored
+![TF model output on custom test set](big_test.png)
