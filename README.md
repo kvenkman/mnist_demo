@@ -19,4 +19,5 @@ Happy DL-ing with NNs! :)
 ![TF model output on custom test set](big_test.png)
 
 ### Update:
-The reason for the poor performance on the custom generated dataset seems to be caused due to the way the digits are written. I will be conducting further tests using CNNs to see how the performance changes.
+The reason for the poor performance on the custom generated dataset seems to be caused due to the way the digits are written. Some of it is offset by a newer set of 'better looking' digits. I will be conducting further tests using CNNs to see how the performance changes.
+![TF model output on updated custom test set](big_test2.png)
