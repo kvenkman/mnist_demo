@@ -17,3 +17,6 @@ Happy DL-ing with NNs! :)
 
 ### A saved TF model results in less than 50% accuracy, when it's accuracy was ~98% on the MNIST set. The reason for this is being currently explored
 ![TF model output on custom test set](big_test.png)
+
+### Update:
+The reason for the poor performance on the custom generated dataset seems to be caused due to the way the digits are written. I will be conducting further tests using CNNs to see how the performance changes.
