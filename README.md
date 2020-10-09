@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kvenkman/mnist_demo/master)
+
 # mnist_demo
 Demonstrating the use of ML for digit classification using the MNIST dataset.
 
