@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kvenkman/mnist_demo/master)
+
 # mnist_demo
 Demonstrating the use of ML for digit classification using the MNIST dataset.
 
@@ -33,3 +35,5 @@ The reason for the poor performance on the custom generated dataset seems to be 
 
 ### Current network performance: 
 ![TF model output on updated custom test set](big_test2.png)
+
+### [Check out this notebook at Binder](https://mybinder.org/v2/gh/kvenkman/mnist_demo/master)
